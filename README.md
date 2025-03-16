@@ -1,7 +1,8 @@
  # Developer: KeyFrog;
  ![keyfrog-21K's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyfrog-21K&show_icons=true&theme=transparent)
 
- - Student who likes dev.
+- Student who likes dev.
+- From Korea.
 - 웹을 좋아하지만 잘하는건 파이썬이네요.
 <!--
 **keyfrog-21K/keyfrog-21K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
