@@ -1,5 +1,4 @@
  # Developer: KeyFrog;
- ![keyfrog-21K's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyfrog-21K&show_icons=true&theme=transparent)
 
 - Student who likes dev.
 - From Korea.
